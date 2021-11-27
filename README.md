@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phantomhell
 - 👀 I’m interested in history
-- 📫 How to reach me info@maucariapa.com
+- 📫 Reach me via info@maucariapa.com
 - 💲 Support me via <a href="https://www.paypal.com/paypalme/kodester?country.x=ID&locale.x=id_ID" target="_blank">PayPal</a>
 
 <!---
